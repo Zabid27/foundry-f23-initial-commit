@@ -1,6 +1,7 @@
 [profile.default]
 src = "src"
 out = "out"
+ffi=true
 libs = ["lib"]
 remappings = [
     "@chainlink=/home/work/foundry-solidity/foundry-fund-me-f23/lib/chainlink-brownie-contracts/contracts",
