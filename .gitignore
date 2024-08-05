@@ -16,9 +16,3 @@ docs/
 broadcast/
 lib/
 
-.DS_Store
-
-
-# zksync
-
-zkout/
